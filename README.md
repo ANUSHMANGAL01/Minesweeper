@@ -1,4 +1,10 @@
 # Minesweeper
+
+
+This work was just a minor work done by me and my friends. It is a basic terminal based minesweeper game.
+
+We worked together and coordinated with each other. This work taught us how to work together.
+
 Minesweeper in C++
 
 vocabulary:
